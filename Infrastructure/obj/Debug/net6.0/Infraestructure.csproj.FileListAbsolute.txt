@@ -1,0 +1,15 @@
+D:\CursoRestFul\Infrastructure\bin\Debug\net6.0\Infraestructure.deps.json
+D:\CursoRestFul\Infrastructure\bin\Debug\net6.0\Infraestructure.dll
+D:\CursoRestFul\Infrastructure\bin\Debug\net6.0\Infraestructure.pdb
+D:\CursoRestFul\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\CursoRestFul\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.dll
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\refint\Infraestructure.dll
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\Infraestructure.pdb
+D:\CursoRestFul\Infrastructure\obj\Debug\net6.0\ref\Infraestructure.dll
